@@ -3,8 +3,8 @@
 This repository contains my lab assignments and coursework for the AIOps Observability course at Carnegie Mellon University.
 
 ## 🛠️ Environment Setup
-- **OS**: Windows Subsystem for Linux (WSL2) 
-- **Platform**: Ubuntu (or your chosen Linux distro) 
+- **OS**: Windows Subsystem for Linux
+- **Platform**: Ubuntu
 - **Tools**: Docker, GitHub 
 
 ##  Repository Structure
